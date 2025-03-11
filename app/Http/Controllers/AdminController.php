@@ -88,6 +88,4 @@ class AdminController extends Controller
             "data" => $subscriptions, // Paginated and filtered data
         ]);
     }
-
-
 }

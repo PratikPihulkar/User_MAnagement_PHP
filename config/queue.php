@@ -17,7 +17,7 @@
           					 'retry_after' => 90,
       			 	 ],
 
-        				// Add other queue connections if needed
+        				// Add other queue connections if neededd
   			  ],
 
   			  'failed' => [

@@ -14,7 +14,6 @@
 		use Illuminate\Support\Facades\DB;
 		use Illuminate\Support\Facades\Log;
 
-
 		class AuthController extends Controller
 		{
    
@@ -246,5 +245,4 @@
 							], 500);
 						}
     			}
-
 		}
